@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCDataServices\\MLCServicesData.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCCommondLibrary\\MLCCommonLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCCommondLibrary\\MLCCommonLibrary.csproj",
+        "projectName": "MLCCommonLibrary",
+        "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCCommondLibrary\\MLCCommonLibrary.csproj",
+        "packagesPath": "C:\\Users\\MUDZRAINA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCCommondLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MUDZRAINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCICommondLibrary\\MLCCommonILibrary.csproj": {
+                "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCICommondLibrary\\MLCCommonILibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCDataServices\\MLCServicesData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCDataServices\\MLCServicesData.csproj",
+        "projectName": "MLCServicesData",
+        "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCDataServices\\MLCServicesData.csproj",
+        "packagesPath": "C:\\Users\\MUDZRAINA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCDataServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MUDZRAINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCCommondLibrary\\MLCCommonLibrary.csproj": {
+                "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCCommondLibrary\\MLCCommonLibrary.csproj"
+              },
+              "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCICommondLibrary\\MLCCommonILibrary.csproj": {
+                "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCICommondLibrary\\MLCCommonILibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCICommondLibrary\\MLCCommonILibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCICommondLibrary\\MLCCommonILibrary.csproj",
+        "projectName": "MLCCommonILibrary",
+        "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCICommondLibrary\\MLCCommonILibrary.csproj",
+        "packagesPath": "C:\\Users\\MUDZRAINA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCICommondLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MUDZRAINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

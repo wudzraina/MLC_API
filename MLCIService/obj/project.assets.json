@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MLCCommonILibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/MLCCommonILibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MLCCommonILibrary.dll": {}
+        }
+      },
+      "MLCCommonLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MLCCommonILibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MLCCommonLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MLCCommonLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MLCCommonILibrary/1.0.0": {
+      "type": "project",
+      "path": "../MLCICommondLibrary/MLCCommonILibrary.csproj",
+      "msbuildProject": "../MLCICommondLibrary/MLCCommonILibrary.csproj"
+    },
+    "MLCCommonLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MLCCommondLibrary/MLCCommonLibrary.csproj",
+      "msbuildProject": "../MLCCommondLibrary/MLCCommonLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": [
+      "MLCCommonILibrary >= 1.0.0",
+      "MLCCommonLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MUDZRAINA\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCIService\\MLCServicesIData.csproj",
+      "projectName": "MLCServicesIData",
+      "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCIService\\MLCServicesIData.csproj",
+      "packagesPath": "C:\\Users\\MUDZRAINA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCIService\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\MUDZRAINA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {
+            "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCCommondLibrary\\MLCCommonLibrary.csproj": {
+              "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCCommondLibrary\\MLCCommonLibrary.csproj"
+            },
+            "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCICommondLibrary\\MLCCommonILibrary.csproj": {
+              "projectPath": "C:\\Users\\MUDZRAINA\\Desktop\\MLC Web API\\MLC Project Solution\\MLCICommondLibrary\\MLCCommonILibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

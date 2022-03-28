@@ -1,0 +1,14 @@
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Debug\netcoreapp2.2\MLCServiceIData.deps.json
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Debug\netcoreapp2.2\MLCServiceIData.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Debug\netcoreapp2.2\MLCServiceIData.pdb
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCServiceIData.csproj.CoreCompileInputs.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCServiceIData.AssemblyInfoInputs.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCServiceIData.AssemblyInfo.cs
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCServiceIData.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCServiceIData.pdb
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Debug\netcoreapp2.2\MLCCommonILibrary.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Debug\netcoreapp2.2\MLCCommonILibrary.pdb
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Options.xml
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCServiceIData.csprojAssemblyReference.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCServiceIData.csproj.CopyComplete

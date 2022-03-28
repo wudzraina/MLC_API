@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MLCCommonLibrary/1.0.0": {
+        "dependencies": {
+          "MLCCommonILibrary": "1.0.0"
+        },
+        "runtime": {
+          "MLCCommonLibrary.dll": {}
+        }
+      },
+      "MLCCommonILibrary/1.0.0": {
+        "runtime": {
+          "MLCCommonILibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MLCCommonLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MLCCommonILibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

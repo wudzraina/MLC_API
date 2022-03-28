@@ -1,0 +1,8 @@
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCICommondLibrary\bin\Debug\netcoreapp2.2\MLCCommondILibrary.deps.json
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCICommondLibrary\bin\Debug\netcoreapp2.2\MLCCommondILibrary.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCICommondLibrary\bin\Debug\netcoreapp2.2\MLCCommondILibrary.pdb
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCICommondLibrary\obj\Debug\netcoreapp2.2\MLCCommondILibrary.csproj.CoreCompileInputs.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCICommondLibrary\obj\Debug\netcoreapp2.2\MLCCommondILibrary.AssemblyInfoInputs.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCICommondLibrary\obj\Debug\netcoreapp2.2\MLCCommondILibrary.AssemblyInfo.cs
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCICommondLibrary\obj\Debug\netcoreapp2.2\MLCCommondILibrary.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCICommondLibrary\obj\Debug\netcoreapp2.2\MLCCommondILibrary.pdb

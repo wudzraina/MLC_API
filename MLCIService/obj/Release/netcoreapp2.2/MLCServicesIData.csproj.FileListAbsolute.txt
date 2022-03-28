@@ -1,0 +1,16 @@
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Release\netcoreapp2.2\MLCServicesIData.deps.json
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Release\netcoreapp2.2\MLCServicesIData.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Release\netcoreapp2.2\MLCServicesIData.pdb
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Release\netcoreapp2.2\Microsoft.Extensions.Options.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Release\netcoreapp2.2\MLCCommonILibrary.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Release\netcoreapp2.2\MLCCommonLibrary.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Release\netcoreapp2.2\MLCCommonLibrary.pdb
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Release\netcoreapp2.2\MLCCommonILibrary.pdb
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Release\netcoreapp2.2\Microsoft.Extensions.Options.xml
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Release\netcoreapp2.2\MLCServicesIData.csprojAssemblyReference.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Release\netcoreapp2.2\MLCServicesIData.csproj.CoreCompileInputs.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Release\netcoreapp2.2\MLCServicesIData.AssemblyInfoInputs.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Release\netcoreapp2.2\MLCServicesIData.AssemblyInfo.cs
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Release\netcoreapp2.2\MLCServicesIData.csproj.CopyComplete
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Release\netcoreapp2.2\MLCServicesIData.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Release\netcoreapp2.2\MLCServicesIData.pdb

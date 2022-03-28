@@ -1,0 +1,9 @@
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Debug\netcoreapp2.2\MLCIService.deps.json
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Debug\netcoreapp2.2\MLCIService.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\bin\Debug\netcoreapp2.2\MLCIService.pdb
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCIService.csprojAssemblyReference.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCIService.csproj.CoreCompileInputs.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCIService.AssemblyInfoInputs.cache
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCIService.AssemblyInfo.cs
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCIService.dll
+C:\Users\MUDZRAINA\Desktop\MLC Web API\MLC Project Solution\MLCIService\obj\Debug\netcoreapp2.2\MLCIService.pdb

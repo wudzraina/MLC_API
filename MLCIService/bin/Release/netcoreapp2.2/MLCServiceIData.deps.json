@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "MLCServiceIData/1.0.0": {
+        "dependencies": {
+          "MLCCommonILibrary": "1.0.0",
+          "Microsoft.Extensions.Options": "2.2.0.0"
+        },
+        "runtime": {
+          "MLCServiceIData.dll": {}
+        }
+      },
+      "MLCCommonILibrary/1.0.0": {
+        "runtime": {
+          "MLCCommonILibrary.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Options/2.2.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MLCServiceIData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MLCCommonILibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Options/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
